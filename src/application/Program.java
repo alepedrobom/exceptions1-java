@@ -18,7 +18,7 @@ public class Program {
 		try {
 			System.out.print("Room number   alexandrebnjkdfwklhjfdwerhjk: ");
 			int number = sc.nextInt();
-			System.out.print("Check-in date (dd/MM/yyyy): ");
+			System.out.print("Check-in dwefwerfwerwerfrewfewfate (dd/MM/yyyy): ");
 			Date checkIn = sdf.parse(sc.next());
 			System.out.print("Check-out date (dd/MM/yyyy): ");
 			Date checkOut = sdf.parse(sc.next());
